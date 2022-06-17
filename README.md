@@ -1,6 +1,6 @@
 # TestActivityEmbedding
-# Below video shows with Activity Embedding on, explicit intent works fine
-# but on launching implicit intent "Intent.ACTION_DIAL", app crashes.
+Below video shows with Activity Embedding on, explicit intent works fine
+but on launching implicit intent "Intent.ACTION_DIAL", app crashes.
 
 https://user-images.githubusercontent.com/5599093/174250232-bf2f3852-2708-417a-a6ec-70ae66393c6d.mp4
 
