@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!-- The split configuration for activities. -->
+<resources xmlns:window="http://schemas.android.com/apk/res-auto">
+    <SplitPairRule
+        window:splitMinWidth="600dp"
+        window:splitRatio="0.5">
+        <SplitPairFilter
+            window:primaryActivityName=".MainActivity"
+            window:secondaryActivityName=".TestActivity" />
+        <SplitPairFilter
+            window:primaryActivityName=".MainActivity"
+            window:secondaryActivityAction="android.intent.action.DIAL"
+            window:secondaryActivityName="*/*" />
+    </SplitPairRule>
+</resources>

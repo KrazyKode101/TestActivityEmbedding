@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestActivityEmbedding</string>
+    <string name="launch_implicit_intent">Launch Implicit Intent</string>
+    <string name="launch_explicit_intent">Launch Explicit intent</string>
+    <string name="explicit_intent">Test Activity Launched</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="close_test_activity">Close Test Activity</string>
+</resources>
